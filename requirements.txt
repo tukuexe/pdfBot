@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pdfkit
+img2pdf
+aiohttp
+Pillow
